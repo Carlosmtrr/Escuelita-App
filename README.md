@@ -64,6 +64,7 @@ Si deseas correr este proyecto en local, sigue estos pasos:
 **Carlos Morán Torres**
 * 📧 Email: [carlosmoran0119@gmail.com](mailto:carlosmoran0119@gmail.com)
 * 🐙 GitHub: [@Carlosmtrr](https://github.com/Carlosmtrr)
+  
 **Erick de la Barrera López**
 * 📧 Email: [erickdelab@gmail.com](mailto:erickdelab@gmail.com)
 * 🐙 GitHub: [@erickdelab](https://github.com/erickdelab)
